@@ -69,7 +69,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen animate-[pulse-gray_3s_ease-in-out_infinite]">
+    <div className="min-h-screen animate-pulse-gray">
       <div className="container mx-auto px-4 py-16">
         <motion.div
           initial={{ opacity: 0, y: 20 }}
