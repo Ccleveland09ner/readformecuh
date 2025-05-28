@@ -5,7 +5,7 @@ Turn documents into **text, summaries, and audio** you can stream or download
 
 <table>
 <tr><td>Backend</td><td>FastAPI &middot; OpenAI &middot; Python 3.11</td></tr>
-<tr><td>Front-end (coming)</td><td>React 18 · TypeScript · Vite</td></tr>
+<tr><td>Front-end </td><td>React 18 · TypeScript · Vite</td></tr>
 </table>
 
 ---
